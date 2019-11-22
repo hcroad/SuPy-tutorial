@@ -1,0 +1,18 @@
+2019-11-22 10:50:25,195 — SuPy — INFO — All cache cleared.
+2019-11-22 10:58:37,943 — SuPy — INFO — SuPy is validating `df_state`...
+2019-11-22 10:58:38,155 — SuPy — INFO — All checks for `df_state` passed!
+2019-11-22 10:58:41,895 — SuPy — INFO — SuPy is validating `df_forcing`...
+2019-11-22 10:58:44,869 — SuPy — ERROR — Issues found in `df_forcing`:
+`kdown` should be between [0, 1400] but `-1.3057500000000002` is found at 2010-01-01 00:05:00
+2019-11-22 10:58:47,242 — SuPy — INFO — SuPy is validating `df_forcing`...
+2019-11-22 10:58:50,301 — SuPy — INFO — All checks for `df_forcing` passed!
+2019-11-22 10:58:54,809 — SuPy — INFO — ====================
+2019-11-22 10:58:54,810 — SuPy — INFO — Simulation period:
+2019-11-22 10:58:54,812 — SuPy — INFO —   Start: 2010-01-01 00:05:00
+2019-11-22 10:58:54,816 — SuPy — INFO —   End: 2011-01-01 00:00:00
+2019-11-22 10:58:54,818 — SuPy — INFO — 
+2019-11-22 10:58:54,819 — SuPy — INFO — No. of grids: 1
+2019-11-22 10:58:54,820 — SuPy — INFO — SuPy is running in serial mode
+2019-11-22 10:59:43,110 — SuPy — INFO — Execution time: 48.3 s
+2019-11-22 10:59:43,114 — SuPy — INFO — ====================
+
